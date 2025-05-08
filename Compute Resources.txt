@@ -1,1 +1,0 @@
-All experiments are conducted using a workstation with an Intel(R) Core(TM) i9-14900K processor and 96 GB of memory.
